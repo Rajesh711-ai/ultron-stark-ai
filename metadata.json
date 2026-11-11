@@ -1,0 +1,6 @@
+{
+  "name": "Ultron Orb UI - Stark AI Holographic Interface",
+  "description": "Futuristic holographic AI interface with interactive 3D plasma orb, webcam MediaPipe hand tracking gestures, audio reactivity, voice commands, custom shaders, and Stark HUD diagnostics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
