@@ -1,39 +1,8 @@
-# ⚡ ULTRON – Stark AI
+## 🌐 Live Demo
 
-### The Future of AI Interaction
+Experience ULTRON here:
 
-ULTRON is a futuristic AI assistant interface inspired by Stark-style holographic technology. It aims to deliver an immersive experience through an interactive AI ORB, cinematic animations, and a modern holographic HUD interface.
+**[Launch ULTRON – Stark AI](https://ultron-stark-44haeedxk-ravayana.vercel.app)**
 
-## ✨ Features
-
-- Futuristic AI ORB interface
-- Holographic HUD design
-- Interactive user interface
-- Voice interaction
-- Real-time system visualization
-- Smooth animations and visual effects
-- Responsive design
-
-## 🛠️ Technologies Used
-
-- HTML
-- CSS
-- JavaScript / TypeScript
-- React
-- AI Integration
-
-## 🎯 Vision
-
-To bring futuristic holographic AI interaction into reality by creating an intelligent, immersive, and visually advanced AI assistant.
-
-## 🚀 Project Status
-
-Prototype – Under Development.
-
-## 👨‍💻 Developer
-
-Created by Rajesh711-ai.
-
----
-
-**ULTRON – Intelligence Beyond Imagination.**
+### 🚀 Deployment
+Hosted on Vercel.
